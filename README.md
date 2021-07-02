@@ -1,5 +1,5 @@
 # Test
-**ESto es un repo de prueba**
+**Esto es un repo de prueba**
 ```
 Codigo
 ```
